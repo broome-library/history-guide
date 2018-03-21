@@ -8,61 +8,58 @@ _\(Finding Primary Sources on the Web, ALA-RUSA, 2008\)_
 
 ## Primary Source Databases
 
-### [American Indian Histories and Cultures](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.aihc.amdigital.co.uk)
+### [American Indian Histories and Cultures](http://summit.csuci.edu:2048/login?url=http://www.aihc.amdigital.co.uk)
 
 > Manuscripts, artwork and rare printed books, treaties, speeches, and diaries dating from the earliest contact with European settlers to photographs and newspapers from the mid-twentieth century.
 
-### [American Periodicals Series 1740-1900](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://search.proquest.com/americanperiodicals?accountid=7284)
+### [American Periodicals Series 1740-1900](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/americanperiodicals?accountid=7284)
 
 > American Periodicals Series Online contains over 1,100 periodicals that first began publishing between 1740 and 1900.
 
-### [American State Papers, 1789-1838](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [American State Papers, 1789-1838](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
 
 > Contains primary material of American historical importance including legislative and executive documents, speeches of U.S. presidents and coverage of historical events from 1789-1838.
 
-### [American West](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.americanwest.amdigital.co.uk)
+### [American West](http://summit.csuci.edu:2048/login?url=http://www.americanwest.amdigital.co.uk)
 
 > Books, journals, diaries and pioneer accounts, maps, broadsides, periodicals, advertisements, photographs, and artwork of the American West from the early eighteenth to the mid-twentieth century.
 
-### [China, America, & the Pacific](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.cap.amdigital.co.uk)
+### [China, America, & the Pacific](http://summit.csuci.edu:2048/login?url=http://www.cap.amdigital.co.uk)
 
 > Rare texts, visual images, personal and business correspondence, newspapers, and maps which document the trading and cultural relationships between China, America, and the Pacific region between the 18th and early 20th centuries.
 
-### [Confidential Print: Latin America](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.archivesdirect.amdigital.co.uk)
+### [Confidential Print: Latin America](http://summit.csuci.edu:2048/login?url=http://www.archivesdirect.amdigital.co.uk)
 
 > British Foreign and Colonial Office documents covering the whole of South and Central America, including the non-British islands of the Caribbean, from the 1820s to the height of the Cold War in the 1960s.
 
-### [Early English Books Online](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://eebo.chadwyck.com)
+### [Early English Books Online](http://summit.csuci.edu:2048/login?url=http://eebo.chadwyck.com)
 
 > Includes images of works printed in England, Ireland, Scotland, Wales and British North America from 1473-1700.
 
-### [Medieval Travel Writing](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.medievaltravel.amdigital.co.uk)
+### [Medieval Travel Writing](http://summit.csuci.edu:2048/login?url=http://www.medievaltravel.amdigital.co.uk)
 
 > Late medieval manuscript illuminations and maps documenting journeys to Central Asia and the Far East \(including Mongolia, Persia, India, China, and South-East Asia\), and the Holy Land.
 
-### [Slavery, Abolition and Social Justice](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.slavery.amdigital.co.uk)
+### [Slavery, Abolition and Social Justice](http://summit.csuci.edu:2048/login?url=http://www.slavery.amdigital.co.uk)
 
 > Primary and secondary documents relating to slavery, abolition and social justice. Includes an interactive map that allows selection of contents by preset regions.
 
-### [Smithsonian Global Sound for Libraries](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://glmu.alexanderstreet.com)
+### [Smithsonian Global Sound for Libraries](http://summit.csuci.edu:2048/login?url=http://glmu.alexanderstreet.com)
 
 > The world's music and aural traditions are preserved in this virtual encyclopedic collection of 42,405 tracks from 2,949 albums.
 
-### [Travel Writing, Spectacle and World History](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://www.travelwriting.amdigital.co.uk)
+### [Travel Writing, Spectacle and World History](http://summit.csuci.edu:2048/login?url=http://www.travelwriting.amdigital.co.uk)
 
 > Women’s world travel writing from the early 19th century to the late 20th century. Collection includes manuscripts, diaries, correspondence, drawings, guidebooks, and photographs.
 
-### [U.S. Congressional Serial Set](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [U.S. Congressional Serial Set](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
 
 > Contains reports, documents and journals of the U.S. Senate and House of Representatives.
 
-### [U.S. Congressional Serial Set Maps](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [U.S. Congressional Serial Set Maps](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
 
 > Contains images and indexing for maps published in reports and documents of the 37th Congress, 1st Session through the 103rd Congress, 2nd session.
 
-### [Women and Social Movements in the United States](https://web.archive.org/web/20150906080737/http:/summit.csuci.edu:2048/login?url=http://asp6new.alexanderstreet.com/wam2)
+### [Women and Social Movements in the United States](http://summit.csuci.edu:2048/login?url=http://asp6new.alexanderstreet.com/wam2)
 
 > Women and Social Movements is a collection of documents that are organized aroundthe history of women in social movements in the U.S. between 1600 and 2000.
-
-
-
