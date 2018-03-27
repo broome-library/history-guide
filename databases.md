@@ -24,11 +24,11 @@
 
 ## Historical Newspapers
 
-### [Los Angeles Times Historical \(1881-1985](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnplatimes?accountid=7284)\)
+### [Los Angeles Times Historical (1881-1985)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnplatimes?accountid=7284)\)
 
 > Includes indexing and full text content of the Los Angeles Times from 1881 through 1984.
 
-### [New York Times Historical \(1851-2002\)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnpnewyorktimeswindex?accountid=7284)
+### [New York Times Historical (1851-2002)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnpnewyorktimeswindex?accountid=7284)
 
 > The full text of the New York Times from its first issue in 1851 to 2002.
 
@@ -48,7 +48,7 @@
 
 > Hispanic American Newspapers, 1808-1980represents the single largest compilation of Spanish-language newspapers printed in the U.S. during the 19th and 20th centuries.
 
-### [Latin American Newspapers Series I 1805-1922](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com?db=WHNPX&d_collections=WHNPLAN1)
+### [Latin American Newspapers Series 1 1805-1922](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com?db=WHNPX&d_collections=WHNPLAN1)
 
 > Searchable newspapers from Latin America published between 1805-1922.
 
